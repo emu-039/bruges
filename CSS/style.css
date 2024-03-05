@@ -283,6 +283,7 @@ label {
     font-size: 1.125rem;
     margin-bottom: 10px;
     display: block;
+    color: #F6F6F3;
 }
 
 input[type="text"],
