@@ -76,6 +76,7 @@ img {
     font-size: 1.125rem;
     margin: 10px 0 42px;
     color:#F6F6F3;
+    letter-spacing: 0.05em
 }
 
 /* 見出し */
@@ -85,6 +86,7 @@ img {
     text-transform: uppercase;
     font-weight: normal;
     color:#F6F6F3;
+    letter-spacing: 0.05em
 }
 
 /* ボタン */
